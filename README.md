@@ -41,7 +41,14 @@ StatisticsFrame: Swing window to displays personal game statistics
 TopScorersFrame: Swing window to displays the top 5 scorers using JTable
 
 ## Screenshots
-Add screenshots here.
+Login:
+<img width="333" height="262" alt="Screenshot 2026-06-26 222544" src="https://github.com/user-attachments/assets/14cf0174-f129-4a78-a8eb-a2343eb26473" />
+
+Game Frame:
+<img width="386" height="492" alt="Screenshot 2026-06-26 222631" src="https://github.com/user-attachments/assets/ec0a0f8e-b041-4d68-9a37-cbb7f4f0195b" />
+
+Top 5 Scorer:
+<img width="467" height="271" alt="Screenshot 2026-06-26 222638" src="https://github.com/user-attachments/assets/c24fef15-5748-4b28-88b8-80022b75251f" />
 
 ## Video Link
-YouTube:
+YouTube: https://youtu.be/BvQfRVXS17w
